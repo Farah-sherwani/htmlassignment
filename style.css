@@ -1,0 +1,84 @@
+.header {
+   
+    padding: 5px;
+    color: ffffff;
+    width: 100%;
+    height: 50%;
+    background-color: rgb(232, 232, 241);
+
+}
+
+    .navbar{
+        overflow:hidden;
+        background-color:#d84d0c;
+        width: 100%;
+        
+        }
+        
+        .navbar a{
+        float: left;
+        display: block;
+        color: white;
+        text-align:center;
+        /* padding: 1px ; */
+        text-decoration: none;
+        
+        }
+        .navbar a:hover {
+        background-color:#daf3fa;
+        color: #067b9c;
+        }
+#about{
+    background-color:  #f2f2f2;
+    width: 100%;
+    height: auto;
+}
+#service{
+    background-color: #ffffff;
+    width: 100%;
+    height: auto;
+}
+#process{
+    
+    width: 100%;
+    height: auto;
+}
+
+
+#portfolio{
+    background-color: rgb(9, 8, 8);
+    width: 100%;
+    height: auto;
+}
+#aboutus{
+    background-color: #F2F2F2;
+    width: 100%;
+    height: auto;
+}
+
+#skill{
+    background-color: #ffffff;
+    width: 100%;
+    height: auto;
+    
+}
+#contact{
+    color: #000000;
+}
+   
+
+.col-sm-2{
+    background-color: #fbfffe;
+}
+#footer{
+    background-color: #8ec63f;
+    color: #ffffff;
+}
+.button{
+    background-color: rgb(239, 167, 14);
+    color: #f2f2f2;
+    width: fit-content;
+    margin: 2px;
+    padding: 5px;
+    cursor: pointer;
+}
